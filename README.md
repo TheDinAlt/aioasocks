@@ -15,4 +15,4 @@ async def main():
     ))
 ```
 ## Contacts
-**Telegram:** [@TheDinAlt](t.me/TheDinAlt)
+**Telegram:** [@TheDinAlt](https://t.me/TheDinAlt)
