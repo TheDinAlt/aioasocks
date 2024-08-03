@@ -3,6 +3,7 @@ aioasocks it's simple asynchronous Python SDK for [asocks.com](https://asocks.co
 ## Quickstart
 
 ```python
+import asyncio
 from aioasocks import AsocksClient
 
 async def main():
@@ -13,6 +14,8 @@ async def main():
                     proxy_type_id=2,
                     name="proxy_name"
     ))
+
+asyncio.run(main())
 ```
 ## Contacts
 **Telegram:** [@TheDinAlt](https://t.me/TheDinAlt)
