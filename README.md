@@ -19,3 +19,5 @@ asyncio.run(main())
 ```
 ## Contacts
 **Telegram:** [@TheDinAlt](https://t.me/TheDinAlt)
+
+`with 💜 by TheDinAlt`
